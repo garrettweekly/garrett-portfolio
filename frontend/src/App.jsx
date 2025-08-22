@@ -570,7 +570,7 @@ const App = () => {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 md:pr-12 mb-10 md:mb-0">
               <img
-                src="/images/graduation.png"
+                src="images/graduation.png"
                 alt="Professional photo"
                 className="rounded-2xl shadow-2xl"
               />
