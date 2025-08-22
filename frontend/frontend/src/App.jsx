@@ -408,7 +408,7 @@ const App = () => {
               Professional experience, education, and skills
             </p>
             <a
-              href="GarrettWeeksResume.pdf"
+              href="/GarrettWeeksResume.pdf"
               download="Garrett_Weeks_Resume.pdf"
               className={`inline-flex items-center font-semibold px-6 py-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg ${
                 isDarkMode 
